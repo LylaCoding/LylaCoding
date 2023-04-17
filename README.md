@@ -1,6 +1,7 @@
  # Hi there 👋
  ## About Me:
-- My name is Lou and I'm 18
+- My name is Lou and I'm 18.
+- I have Autism & Dyslexia (Depression and Anxiety Comes With That)
 - I've always loved coding since a young age and i am looking to take a computer science course at the University Of Derby Soon...
 - Im very interested in AI and think its going somwhere great. 
 - If you want to message me, idk figure it out, open an issue maybe? :D
