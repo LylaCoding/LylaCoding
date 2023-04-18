@@ -7,7 +7,7 @@
 - If you want to message me, idk figure it out, open an issue maybe? :D
 - Also mushrooms are cool 🍄🍄
 
-### Here are my GitHub stats (embarrassing)
+### Here are my GitHub stats (embarrassing I know)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouCodingStuff&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouCodingStuff)](https://github.com/anuraghazra/github-readme-stats)
