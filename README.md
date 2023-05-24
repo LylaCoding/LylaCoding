@@ -4,8 +4,8 @@
 - I have Autism & Dyslexia (Please make pulls to fix my spelling)
 - I've always loved coding since a young age and i am looking to take a creative computing course at Portsmouth Univerity Soon...
 - Im very interested in AI and think its going somwhere great. 
-- If you want to message me, idk figure it out, open an issue maybe? :D
-- If you notice I had little commits on my projects it's because I like to perfect them before I upload them. I think it looks nicer and people can't judge my edits lol.
+- If you want to message me, you could open an issue on any of my projects :D
+- If you notice I have a small amount commits on my projects it's because I like to perfect them before I upload them. I think it looks nicer and people can't judge my edits lol.
 - Also mushrooms are cool 🍄🍄
 
 ### Here are my GitHub stats (embarrassing I know)
